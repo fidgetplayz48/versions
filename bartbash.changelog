@@ -1,43 +1,10 @@
-[font_size=24]0.0.1.0[/font_size]
-Initial Release
+[font_size=24]0.0.1.0 - Initial Release[/font_size]
+Initial build
 
-[font_size=24]0.0.1.1 - the 2 update[/font_size]
-added 2
+[font_size=24]0.0.1.1 - The Minor Patches Update[/font_size]
+Added more challenges
+Fixed the SaveManager failing to load things on boot
 
-[font_size=24]0.0.1.1 - Garbak [][/font_size]
-added Evil Garbak!
-
-
-[font_size=24]0.0.1.1 - the 2 update[/font_size]
-added 2
-
-[font_size=24]0.0.1.1 - Garbak [][/font_size]
-added Evil Garbak!
-
-
-[font_size=24]0.0.1.1 - the 2 update[/font_size]
-added 2
-
-[font_size=24]0.0.1.1 - Garbak [][/font_size]
-added Evil Garbak!
-
-
-[font_size=24]0.0.1.1 - the 2 update[/font_size]
-added 2
-
-[font_size=24]0.0.1.1 - Garbak [][/font_size]
-added Evil Garbak!
-
-
-[font_size=24]0.0.1.1 - the 2 update[/font_size]
-added 2
-
-[font_size=24]0.0.1.1 - Garbak [][/font_size]
-added Evil Garbak!
-
-
-[font_size=24]0.0.1.1 - the 2 update[/font_size]
-added 2
-
-[font_size=24]0.0.1.1 - Garbak [][/font_size]
-added Evil Garbak!
+[font_size=24]0.0.1.2 - The Cooler Update[/font_size]
+Fixed small icons not appearing when picking something in the shop
+Fixed small icons not appearing for required things in the Thingiary
