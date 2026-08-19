@@ -1,23 +1,62 @@
-[font_size=24]0.0.1.4 - poop patch[/font_size]
-Added custom backgrounds and songs for the "Green Demon" challenge
-Nerfed Flomer's challenge
-Nerfed Umer
-Added unique images for the "Choose an ___" text in the intermission for Predetermined and Hidden things.
-Reworked Marge:
-- Now, instead of having to stop your mouse as she dissapears, you have to just keep your mouse still for 0.4 seconds while she's in the red state, else you get a game over.
-Fixed a bug regarding the way that clicking is checked for on the "click the bart"/"osu" thing, that would cause the game to crash.
+[font_size=36]0.0.2.0 - worst day of nilcysts life![/font_size]
+[font_size=25]Additions[/font_size]
+Added new thing: "[color=9ff]glass cannon[/color]"
+Added new thing: "[color=9ff]ti tel bar[/color]"
+Added new feature: autoclicker detection.
+* If the game detects an autoclicker, any input will be blocked until you quit to the title screen.
+There is now a retry option for game over prompts.
+You can now fullscreen the game by pressing Alt + Enter, F11 or the F key.
+The game over screen now shows what you died to.
+You can now reroll in the Intermission if you have time left over, every 10 seconds turning into an extra reroll.
 
-[font_size=24]0.0.1.3 - i predicted this one Patch . com[/font_size]
-Predetermined shops work now
-Umer was added
+[font_size=25]Changes[/font_size]
+[color=9ff]DVD VIDEO LOGO!![/color]: The cooldown indicator indicates how close it is to being off of cooldown
+[color=9ff]Blink[/color]: There's now a 15% chance for a bart to teleport and a 15% chance for it to only change direction, unlike it teleporting barts with an 100% chance.
+[color=9ff]Nilcyst[/color]: Nilcyst now disappears and reappears at random points on the screen rather than remaining stationary, reducing visual clutter.
+Volume set in the title screen is now properly saved and loaded.
+The "choose an good :)" image for intermissions was changed from green to pink to accurately reflect the color palette of good things.
 
-[font_size=24]0.0.1.2 - The Cooler Patch[/font_size]
-Fixed small icons not appearing when picking something in the shop
-Fixed small icons not appearing for required things in the Thingiary
+[font_size=25]Bugfixes[/font_size]
+Fixed a bug regarding good things that require bad things not loading (and vice versa). This issue affected "[color=9ff]cyst charm[/color]", "[color=9ff]ti tel bar[/color]" and "[color=9ff]OSU IN ARKANSAS[/color]"
+Fixed a bug regarding [color=9ff]ARRAY OF CHAIN ARRAYS[/color] adding entities that are banned by the challenge/not unlocked yet
 
-[font_size=24]0.0.1.1 - The Minor Patche(s) Update[/font_size]
-Added more challenges
-Fixed the SaveManager failing to load things on boot
+[font_size=36]0.0.1.4 - poop patch[/font_size]
+[font_size=25]Additions[/font_size]
+Added new feature: custom backgrounds and songs for the "Green Demon" challenge.
+Added new images for the "Choose an ___" text in the intermission for Predetermined and Hidden things.
 
-[font_size=24]0.0.1.0 - Initial Release[/font_size]
-Game is sent to some testers every now and then and such and such and such
+[font_size=25]Balancing Changes[/font_size]
+Nerfed the "Flomer challenge" challenge.
+Nerfed "[color=9ff]Umer[/color]".
+
+[font_size=25]Changes[/font_size]
+[color=9ff]the marges[/color]: Reworked; Instead of having to stop your mouse as they disappear, you now have to keep your mouse still for 0.4 seconds while she's in the red state, or else you get a game over.
+
+[font_size=25]Bugfixes[/font_size]
+Fixed a bug regarding the way clicking was checked for in the "[color=9ff]click the bart[/color]"/"[color=9ff]osu[/color]" thing, which could cause the game to crash.
+
+
+[font_size=36]0.0.1.3 - i predicted this one . com[/font_size]
+[font_size=25]Additions[/font_size]
+Added new thing: "[color=9ff]Umer[/color]".
+
+[font_size=25]Bugfixes[/font_size]
+Fixed a bug regarding Predetermined shops not working.
+
+
+[font_size=36]0.0.1.2 - The Cooler Patch[/font_size]
+[font_size=25]Bugfixes[/font_size]
+Fixed a bug regarding small icons not appearing when picking something in the shop.
+Fixed a bug regarding small icons not appearing for required things in the Thingiary.
+
+
+[font_size=36]0.0.1.1 - The Minor Patche(s) Update[/font_size]
+[font_size=25]Additions[/font_size]
+Added new challenges.
+
+[font_size=25]Bugfixes[/font_size]
+Fixed a bug regarding the SaveManager failing to load things on boot.
+
+
+[font_size=36]0.0.1.0 - Initial Release[/font_size]
+Game was released to some testers for testing and testing and such and such and thinhgs and such
