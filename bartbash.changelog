@@ -2,6 +2,7 @@
 [font_size=25]Additions[/font_size]
 Added new thing: "[color=9ff]glass cannon[/color]"
 Added new thing: "[color=9ff]ti tel bar[/color]"
+Added new thing: "[color=9ff]Coin Hack!![/color]"
 Added new feature: autoclicker detection.
 * If the game detects an autoclicker, any input will be blocked until you quit to the title screen.
 There is now a retry option for game over prompts.
