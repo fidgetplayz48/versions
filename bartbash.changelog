@@ -3,6 +3,9 @@
 Added new thing: "[color=9ff]glass cannon[/color]"
 Added new thing: "[color=9ff]ti tel bar[/color]"
 Added new thing: "[color=9ff]Coin Hack!![/color]"
+Added new thing: "[color=9ff]Voodoo[/color]"
+Added new thing: "[color=9ff]D20[/color]"
+Added new thing: "[color=9ff]bart esp[/color]"
 Added new feature: autoclicker detection.
 * If the game detects an autoclicker, any input will be blocked until you quit to the title screen.
 There is now a retry option for game over prompts.
@@ -14,8 +17,10 @@ You can now reroll in the Intermission if you have time left over, every 10 seco
 [color=9ff]DVD VIDEO LOGO!![/color]: The cooldown indicator indicates how close it is to being off of cooldown
 [color=9ff]Blink[/color]: There's now a 15% chance for a bart to teleport and a 15% chance for it to only change direction, unlike it teleporting barts with an 100% chance.
 [color=9ff]Nilcyst[/color]: Nilcyst now disappears and reappears at random points on the screen rather than remaining stationary, reducing visual clutter.
+[color=9ff]EVENT HORIZON[/color]: Updated the icon.
 Volume set in the title screen is now properly saved and loaded.
 The "choose an good :)" image for intermissions was changed from green to pink to accurately reflect the color palette of good things.
+Made [color=9ff]OSU IN ARKANSAS[/color] a thing obtainable in the "Awesome Combo!" challenge.
 
 [font_size=25]Bugfixes[/font_size]
 Fixed a bug regarding good things that require bad things not loading (and vice versa). This issue affected "[color=9ff]cyst charm[/color]", "[color=9ff]ti tel bar[/color]" and "[color=9ff]OSU IN ARKANSAS[/color]"
