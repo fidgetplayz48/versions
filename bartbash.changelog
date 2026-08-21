@@ -25,6 +25,7 @@ Made [color=9ff]OSU IN ARKANSAS[/color] a thing obtainable in the "Awesome Combo
 [font_size=25]Bugfixes[/font_size]
 Fixed a bug regarding good things that require bad things not loading (and vice versa). This issue affected "[color=9ff]cyst charm[/color]", "[color=9ff]ti tel bar[/color]" and "[color=9ff]OSU IN ARKANSAS[/color]"
 Fixed a bug regarding [color=9ff]ARRAY OF CHAIN ARRAYS[/color] adding entities that are banned by the challenge/not unlocked yet
+- Removed Herobrine
 
 [font_size=36]0.0.1.4 - poop patch[/font_size]
 [font_size=25]Additions[/font_size]
