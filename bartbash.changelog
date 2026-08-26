@@ -6,6 +6,10 @@ Added new thing: "[color=9ff]Coin Hack!![/color]"
 Added new thing: "[color=9ff]Voodoo[/color]"
 Added new thing: "[color=9ff]D20[/color]"
 Added new thing: "[color=9ff]bart esp[/color]"
+Added new thing: "[color=9ff]double double a battery(s(z))[/color]"
+Added new thing: "[color=9ff]i poisoned this fork with c4[/color]"
+Added new thing: "[color=9ff]keep track !![/color]"
+Added new thing: "[color=9ff]eeeror[/color]"
 Added new feature: autoclicker detection.
 * If the game detects an autoclicker, any input will be blocked until you quit to the title screen.
 There is now a retry option for game over prompts.
@@ -15,12 +19,14 @@ You can now reroll in the Intermission if you have time left over, every 10 seco
 
 [font_size=25]Changes[/font_size]
 [color=9ff]DVD VIDEO LOGO!![/color]: The cooldown indicator indicates how close it is to being off of cooldown
-[color=9ff]Blink[/color]: There's now a 15% chance for a bart to teleport and a 15% chance for it to only change direction, unlike it teleporting barts with an 100% chance.
+[color=9ff]Blink[/color]: There's now a 15% chance for a bart to teleport and a 15% chance for it to only change direction, unlike it teleporting barts with a 100% chance.
 [color=9ff]Nilcyst[/color]: Nilcyst now disappears and reappears at random points on the screen rather than remaining stationary, reducing visual clutter.
 [color=9ff]EVENT HORIZON[/color]: Updated the icon.
 Volume set in the title screen is now properly saved and loaded.
 The "choose an good :)" image for intermissions was changed from green to pink to accurately reflect the color palette of good things.
 Made [color=9ff]OSU IN ARKANSAS[/color] a thing obtainable in the "Awesome Combo!" challenge.
+Nerfed "[color=9ff]Umer[/color]".
+Rebalanced some challenges.
 
 [font_size=25]Bugfixes[/font_size]
 Fixed a bug regarding good things that require bad things not loading (and vice versa). This issue affected "[color=9ff]cyst charm[/color]", "[color=9ff]ti tel bar[/color]" and "[color=9ff]OSU IN ARKANSAS[/color]"
@@ -32,11 +38,9 @@ Fixed a bug regarding [color=9ff]ARRAY OF CHAIN ARRAYS[/color] adding entities t
 Added new feature: custom backgrounds and songs for the "Green Demon" challenge.
 Added new images for the "Choose an ___" text in the intermission for Predetermined and Hidden things.
 
-[font_size=25]Balancing Changes[/font_size]
+[font_size=25]Changes[/font_size]
 Nerfed the "Flomer challenge" challenge.
 Nerfed "[color=9ff]Umer[/color]".
-
-[font_size=25]Changes[/font_size]
 [color=9ff]the marges[/color]: Reworked; Instead of having to stop your mouse as they disappear, you now have to keep your mouse still for 0.4 seconds while she's in the red state, or else you get a game over.
 
 [font_size=25]Bugfixes[/font_size]
