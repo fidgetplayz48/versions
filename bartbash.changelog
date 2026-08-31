@@ -1,3 +1,26 @@
+[font_size=36]0.0.2.1 - Hotfixiest Hotfix of 2026[/font_size]
+[font_size=25]Additions[/font_size]
+Added new thing: "[color=9ff]fuzzy[/color]"
+Added new thing: "[color=9ff]the dud[/color]"
+Added new feature: Discord RPC!!!
+* Discord now shows when you play, what challenge you're playing, and stuff like that. pretty cool!
+
+[font_size=25]Changes[/font_size]
+[color=9ff]keep track !![/color]: now has a short description and a proper extended description.
+[color=9ff]eeeror[/color]: now has a proper extended description.
+[color=9ff]i poisoned this fork with c4[/color]: now has a proper extended description.
+[color=9ff]Voodoo[/color]: actually fucking works
+[color=9ff]the SUPERHOT hourglass[/color]: slows down the timer sooner
+[color=9ff]D20[/color]: Now limits the reroll tokens you can get to 1
+Nerfed the "SPEEEEDRUN" challenge.
+* Rounds 15 -> 14
+Timer now speeds up its countdown overtime when counting reroll tickets
+Explosions can now only kill up to 5 barts. (used in [color=9ff]bart mine[/color], [color=9ff]glass cannon[/color], etc.)
+
+
+[font_size=25]Bugfixes[/font_size]
+Reroll tokens now properly get given every 10 seconds left rather than every 9
+
 [font_size=36]0.0.2.0 - worst day of nilcysts life![/font_size]
 [font_size=25]Additions[/font_size]
 Added new thing: "[color=9ff]glass cannon[/color]"
