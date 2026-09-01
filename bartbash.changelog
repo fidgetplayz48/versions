@@ -1,3 +1,8 @@
+[font_size=36]0.0.2.2 - how did u fuck that up[/font_size]
+[font_size=25]Changes[/font_size]
+FIXED THE THING WHERE THERES 300 FUCKIBG BARTS FOR NO REASON
+
+
 [font_size=36]0.0.2.1 - Hotfixiest Hotfix of 2026[/font_size]
 [font_size=25]Additions[/font_size]
 Added new thing: "[color=9ff]fuzzy[/color]"
@@ -17,9 +22,9 @@ Nerfed the "SPEEEEDRUN" challenge.
 Timer now speeds up its countdown overtime when counting reroll tickets
 Explosions can now only kill up to 5 barts. (used in [color=9ff]bart mine[/color], [color=9ff]glass cannon[/color], etc.)
 
-
 [font_size=25]Bugfixes[/font_size]
 Reroll tokens now properly get given every 10 seconds left rather than every 9
+
 
 [font_size=36]0.0.2.0 - worst day of nilcysts life![/font_size]
 [font_size=25]Additions[/font_size]
@@ -55,6 +60,7 @@ Rebalanced some challenges.
 Fixed a bug regarding good things that require bad things not loading (and vice versa). This issue affected "[color=9ff]cyst charm[/color]", "[color=9ff]ti tel bar[/color]" and "[color=9ff]OSU IN ARKANSAS[/color]"
 Fixed a bug regarding [color=9ff]ARRAY OF CHAIN ARRAYS[/color] adding entities that are banned by the challenge/not unlocked yet
 - Removed Herobrine
+
 
 [font_size=36]0.0.1.4 - poop patch[/font_size]
 [font_size=25]Additions[/font_size]
